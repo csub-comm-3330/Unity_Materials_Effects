@@ -2,7 +2,7 @@
 Assets used in Unity Materials YouTube videos.
 
 To import the files into your Unity project:
-1. Download the MaterialsAndEffects.unitypackage from above  
+1. Download the MaterialsAndEffects.unitypackage from the repo
 2. Go to ASSETS > IMPORT PACKAGE > CUSTOM PACKAGE
 3. Choose the MaterialsAndEffects.unitypackage
 
